@@ -5,5 +5,5 @@ Bindings for SDL2_mixer
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/lispgames/cl-sdl2-mixer.git |
 | commit  | fdcc7ee                                            |
-| systems | sdl2-mixer sdl2-mixer-examples                     |
+| systems | sdl2-mixer                                         |
 |---------+----------------------------------------------------|
